@@ -1,4 +1,4 @@
-# K21_mkrzero_OLD
+# K21_mkrzero
 ## OLD implementation of K21 device
 
 This version of code uses:
